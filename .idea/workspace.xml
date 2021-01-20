@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8673aa5a-9170-4a5f-85aa-53641b7eb180" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nGb3Bv3KZAJbyo41XVENrUJnCW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bonilla.mariela" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="bonilla.mariela.Main" />
+      <module name="Tarea1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8673aa5a-9170-4a5f-85aa-53641b7eb180" name="Default Changelist" comment="" />
+      <created>1611019172529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611019172529</updated>
+      <workItem from="1611019176017" duration="15152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1611023743091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1280.-70.1280.984@0.0.1366.728" timestamp="1611023743091" />
+    <state x="479" y="248" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1611033178661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="248" width="408" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/-1280.-70.1280.984@0.0.1366.728" timestamp="1611033178661" />
+    <state x="479" y="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611033470419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/-1280.-70.1280.984@0.0.1366.728" timestamp="1611033470419" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611021720643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1280.-70.1280.984@0.0.1366.728" timestamp="1611021720643" />
+    <state width="391" height="466" key="DebuggerActiveHint" timestamp="1611037105719">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="391" height="466" key="DebuggerActiveHint/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611037105719" />
+    <state width="1237" height="325" key="GridCell.Tab.0.bottom" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state width="1237" height="325" key="GridCell.Tab.0.center" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.0.center/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state width="1237" height="325" key="GridCell.Tab.0.left" timestamp="1611042139115">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.0.left/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139115" />
+    <state width="1237" height="325" key="GridCell.Tab.0.right" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.0.right/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state width="1237" height="325" key="GridCell.Tab.1.center" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.center/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state width="1237" height="325" key="GridCell.Tab.1.left" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.left/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state width="1237" height="325" key="GridCell.Tab.1.right" timestamp="1611042139116">
+      <screen x="-1280" y="-70" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1366.728/-1280.-70.1280.984@-1280.-70.1280.984" timestamp="1611042139116" />
+    <state x="237" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611022846926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1280.-70.1280.984@0.0.1366.728" timestamp="1611022846926" />
+  </component>
+</project>
