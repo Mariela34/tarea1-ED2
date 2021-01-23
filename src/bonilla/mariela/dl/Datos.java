@@ -1,15 +1,15 @@
-package bonilla.mariela.gestor;
+package bonilla.mariela.dl;
 
 import bonilla.mariela.entidades.colas.Colas;
 import bonilla.mariela.entidades.listasOrdenadas.ListaOrdenada;
 import bonilla.mariela.entidades.pilas.Pila;
 
-public class Gestor {
+public class Datos {
     private static Pila listaPila = new Pila();
     private static Colas listaCola = new Colas();
     private static ListaOrdenada listaOrdenada = new ListaOrdenada();
 
-    public void insertarDato(int numEstructura, int num){
+    public void insertar(int numEstructura, int num){
         switch (numEstructura){
             case 1:
                 listaPila.pushNumero(num);
@@ -23,7 +23,7 @@ public class Gestor {
         }
     }
 
-    public String imprimirLista(int numEstructura){
+    public String imprimir(int numEstructura){
         String respuesta = "";
         switch (numEstructura){
             case 1:
@@ -39,7 +39,7 @@ public class Gestor {
         return respuesta;
     }
 
-    public String transferirElemento(int estructura, int num){
+    public String transferir(int estructura, int num){
         String mensaje = "";
         switch (estructura){
             case 1:

@@ -1,6 +1,6 @@
 package bonilla.mariela.ui;
 
-import bonilla.mariela.gestor.Gestor;
+import bonilla.mariela.cl.Gestor;
 
 import java.io.IOException;
 
